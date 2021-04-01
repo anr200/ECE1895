@@ -1,4 +1,4 @@
-void setup() {
+void setup() { //Justin's comment!
   pinMode(7, OUTPUT);    // sets the digital pin 13 as output
   pinMode(8, INPUT);
 }
