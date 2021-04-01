@@ -1,8 +1,7 @@
-//Alex Rusnock
-
 void setup() {
   pinMode(7, OUTPUT);    // sets the digital pin 13 as output
-  pinMode(8, INPUT);
+  pinMode(8, INPUT);  //Alex Rusnock's comment
+
 }
 
 void loop() {
